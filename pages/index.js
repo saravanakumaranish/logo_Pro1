@@ -54,8 +54,7 @@ import {
   FiChevronDown,
 } from 'react-icons/fi';
 
-import { IconType } from 'react-icons';
-import { ReactText } from 'react';
+
 
 import {Grid,GridItem } from "@chakra-ui/react"
 import Trend from './trend';
@@ -63,7 +62,7 @@ import Explore from './explore';
 import Settings from './settings';
 import Favourties from "./favour";
 import Billing from "./billing";
-import {AiOutlineMenu} from "react-icons/Ai"
+import {AiOutlineMenu} from "react-icons/ai"
 
 
 
