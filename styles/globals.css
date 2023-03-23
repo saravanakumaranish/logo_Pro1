@@ -1,0 +1,110 @@
+html,body {
+  padding:0;
+  margin:0;
+  font-family:sans-serif;
+  background:#EDF2F7;
+  color:black;
+  
+}
+
+
+
+.draw {
+  color:white;
+}
+
+
+
+.border {
+  border-bottom-color:#E2E8F0;
+}
+.border1 {
+  border-right-color:#E2E8F0;
+}
+
+a {
+  color:inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing:border-box;
+}
+
+.one {
+  display:inline-block;
+}
+
+.belling {
+  background-color: white;
+}
+.belling:hover {
+ 
+  border:3px solid;
+  border-color:skyblue;
+}
+.belling:focus {
+ 
+  border:3px solid;
+  border-color:skyblue;
+}
+
+/* .side-bar {
+  font-size:1.3rem;
+  margin-bottom:0.5rem;
+  padding-top:1rem;
+  padding-bottom:1rem;
+  padding-left:1rem; 
+  letter-spacing:0.03rem;
+  width:90%;
+  cursor:pointer;
+  border-radius:7px;
+}
+
+.side-bar:hover {
+  background-color: skyblue;
+  color:white;
+} */
+
+
+.side-bar1 {
+  font-size:18px;
+  font-weight:50;
+  
+  letter-spacing:0.03rem;
+  width:90%;
+
+  text-decoration: none;
+  margin-top:-1.7rem;
+ 
+  border-radius:7px;
+ 
+}
+
+.side-bar0 {
+  /* margin-bottom:0.5rem; */
+  /* margin-left:0.5rem; */
+  padding:1rem;
+  /* background-color: white; */
+  width: 90%;
+  cursor:pointer;
+  /* height:50px; */
+  padding-right:2rem;
+  border-radius:5px;
+  
+}
+
+.side-bar0:hover {
+  background-color: skyblue;
+  color:white;
+  
+}
+
+.side-bar2 {
+  width:18px;
+}
+
+
+
+
+
